@@ -5,3 +5,17 @@
 /.claude/
 __pycache__/
 *.pyc
+# macOS
+.DS_Store
+
+# Word temp files
+~$*.docx
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+
+# Logs
+*.log
