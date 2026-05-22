@@ -34,6 +34,7 @@ The firm’s existing CMS, calendar, intake form, and document storage remain th
 - Draft RFE / NOID response framework
 - Immigration deadline review
 - Attorney-review escalation workflow
+- Policy impact review for specific immigration matters
 
 ## Human Review Gates
 
@@ -45,5 +46,7 @@ Claude must not:
 - Calculate final deadlines without human verification
 - Submit filings or forms automatically
 - Communicate legal conclusions directly to clients without attorney approval
+- Treat policy-impact outputs as issue-spotting drafts, not final legal interpretation
+- Do not claim firm-wide caseload monitoring unless MatterOS or another caseload system is in scope
 
 The firm’s CMS and calendar remain the source of truth for hearings, filing deadlines, and procedural dates.
