@@ -122,6 +122,15 @@
       "author": {
         "name": "Thomson Reuters"
       }
+        },
+  {
+    "name": "immigration-legal",
+    "displayName": "Immigration Legal",
+    "source": "./immigration-legal",
+    "description": "Configures Claude for immigration law firm workflows: intake summaries, USCIS/RFE review, document requests, drafting support, deadline review, and attorney-reviewed client communication.",
+    "author": {
+      "name": "Automation Legal"
     }
-  ]
+  }
+]
 }

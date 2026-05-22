@@ -1,0 +1,8 @@
+{
+  "name": "immigration-legal",
+  "version": "0.1.0",
+  "description": "Configures Claude for immigration law firm workflows: intake summaries, USCIS/RFE review, document requests, drafting support, deadline review, and attorney-reviewed client communication.",
+  "author": {
+    "name": "Automation Legal"
+  }
+}
